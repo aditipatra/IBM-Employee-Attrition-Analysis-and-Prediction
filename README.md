@@ -14,8 +14,7 @@ Predicted the Attrition of an employee based on the various factor given:
 
 ### Inspiration
 
-Predict the Attrition of an employee based on the various factor given
-About Dataset
+Predict the Attrition of an employee based on the various features given about dataset:
 
 ### Education
 
