@@ -2,22 +2,23 @@
 
 If the above .ipynb file doesn't load use this link: https://nbviewer.jupyter.org/github/aditipatra/IBM-Employee-Attrition-Analysis-and-Prediction/blob/main/IBM%20Employee%20Attrition%20Analysis%20and%20Prediction.ipynb
 
-Context
+## Context
 
-Watson Analytics Sample Data
+### Watson Analytics Sample Data
 
-Uncover the factors that lead to employee attrition and explore important questions such as ‘show me a breakdown of distance from home by job role and attrition’ or ‘compare average monthly income by education and attrition’. This is a fictional data set created by IBM data scientists
-Content
+Uncovering the factors that lead to employee attrition and exploring important insights. This is a fictional data set created by IBM data scientists.
+
+### Contents:
 
 This the data about the employee on various factor influencing the attrition from the company.
-Predict the Attrition of an employee based on the various factor given
+Predicted the Attrition of an employee based on the various factor given:
 
-Inspiration
+### Inspiration
 
 Predict the Attrition of an employee based on the various factor given
 About Dataset
 
-Education
+### Education
 
     'Below College'
     'College'
@@ -25,42 +26,42 @@ Education
     'Master'
     'Doctor'
 
-EnvironmentSatisfaction
+### EnvironmentSatisfaction
 
     'Low'
     'Medium'
     'High'
     'Very High'
 
-JobInvolvement
+### JobInvolvement
 
     'Low'
     'Medium'
     'High'
     'Very High'
 
-JobSatisfaction
+### JobSatisfaction
 
     'Low'
     'Medium'
     'High'
     'Very High'
 
-PerformanceRating
+### PerformanceRating
 
     'Low'
     'Good'
     'Excellent'
     'Outstanding'
 
-RelationshipSatisfaction
+### RelationshipSatisfaction
 
     'Low'
     'Medium'
     'High'
     'Very High'
 
-WorkLifeBalance
+### WorkLifeBalance
 
     'Bad'
     'Good'
