@@ -10,7 +10,6 @@ Uncovering the factors that lead to employee attrition and exploring important i
 ### Contents:
 
 This the data about the employee on various factor influencing the attrition from the company.
-Predicted the Attrition of an employee based on the various factor given:
 
 ### Inspiration
 
