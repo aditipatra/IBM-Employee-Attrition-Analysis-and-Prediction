@@ -1,5 +1,6 @@
 # IBM-Employee-Attrition-Analysis-and-Prediction
 
+If the above .ipynb file doesn't load use this link: https://nbviewer.jupyter.org/github/aditipatra/IBM-Employee-Attrition-Analysis-and-Prediction/blob/main/IBM%20Employee%20Attrition%20Analysis%20and%20Prediction.ipynb
 
 Context
 
