@@ -2,10 +2,9 @@
 
 If the above .ipynb file doesn't load use this link: https://nbviewer.jupyter.org/github/aditipatra/IBM-Employee-Attrition-Analysis-and-Prediction/blob/main/IBM%20Employee%20Attrition%20Analysis%20and%20Prediction.ipynb
 
-## Context
+### Context
 
-### Watson Analytics Sample Data
-
+#### Watson Analytics Sample Data:
 Uncovering the factors that lead to employee attrition and exploring important insights. This is a fictional data set created by IBM data scientists.
 
 ### Contents:
