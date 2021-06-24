@@ -13,7 +13,7 @@ This the data about the employee on various factor influencing the attrition fro
 
 ### Inspiration
 
-Predict the Attrition of an employee based on the various features given about dataset:
+Predicted the Attrition of an employee based on the various features given about dataset:
 
 ### Education
 
